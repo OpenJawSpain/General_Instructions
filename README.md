@@ -10,7 +10,7 @@ Entrega tu código en el repositorio que te hemos creado anteriormente.
 
 ¡Buena suerte y esperamos conocerte pronto!
 
-Consulta el fichero **Instrucciones_generales.pdf** para ver los casos.
+Por favor revisa los documentos de los casos A, B, y C y elige aquel que te resulte más interesante.
 
 # General Instructions
 Here you will find 3 cases that we have prepared in order to evaluate your
@@ -30,4 +30,4 @@ assigned to your case.
 
 Good luck and we hope to see you soon!
 
-Please consult the General_Instructions.pdf (English version) to see the test cases
+Please review the Case A, B and C documents and choose the exercise you find most interesting.
