@@ -1,0 +1,70 @@
+{
+  "map": {
+    "height": 5,
+    "width": 5
+  },
+  "keyLocations": {
+    "pools": [
+      {
+        "x": 0,
+        "y": 1
+      },
+      {
+        "x": 2,
+        "y": 3
+      }
+    ],
+    "workplaces": [
+      {
+        "x": 3,
+        "y": 4
+      },
+      {
+        "x": 1,
+        "y": 1
+      }
+    ],
+    "dogParks": [
+      {
+        "x": 2,
+        "y": 2
+      }
+    ]
+  },
+  "homes": [
+    {
+      "name": "Comfy condo",
+      "x": 1,
+      "y": 2,
+      "price": 250000
+    },
+    {
+      "name": "Lofty loft",
+      "x": 4,
+      "y": 4,
+      "price": 185000
+    },
+    {
+      "name": "Burns Manor",
+      "x": 1,
+      "y": 3,
+      "price": 9999999
+    }
+  ],
+  "families": [
+    {
+      "name": "The Simpsons",
+      "workers": 1,
+      "children": 3,
+      "dogs": 1,
+      "Budget": 255000
+    },
+    {
+      "name": "The Van Houtens",
+      "workers": 2,
+      "children": 1,
+      "dogs": 1,
+      "Budget": 195000
+    }
+  ]
+}
